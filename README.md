@@ -207,5 +207,3 @@ This is a **complete, functional MVP** ready for production use:
 ISC
 
 ---
-
-**Questions?** See [QUICKSTART.md](QUICKSTART.md) for troubleshooting, or review [docs/DEMO.md](docs/DEMO.md) for a feature walkthrough.
