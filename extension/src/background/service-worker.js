@@ -1,7 +1,7 @@
 // Service Worker for Tracely
 // Listens to network requests and detects trackers
 
-const BACKEND_URL = 'http://localhost:3000/api'
+const BACKEND_URL = 'https://tracely-backend.onrender.com/api'
 
 // Initialize tracking data
 chrome.runtime.onInstalled.addListener(() => {
